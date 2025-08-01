@@ -1,1 +1,1 @@
-// index.js - placeholder
+require("./server");
