@@ -1,6 +1,7 @@
 {
-  "name": "savewater-backend",
+  "name": "save-water-app",
   "version": "1.0.0",
+  "description": "SaveWater – Water Usage Tracker",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
